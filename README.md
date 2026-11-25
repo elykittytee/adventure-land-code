@@ -2,6 +2,7 @@
 snippets &amp; nibbles
 
 This is where I put the snippets I've written. Hopefully they work. Use at your own risk.
+You can remove my comments, they're not useful to anyone else except me.
 
 ---
 ### idle-like
