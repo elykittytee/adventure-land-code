@@ -78,7 +78,7 @@ setInterval(function(){ // attack checks 4x/s
 	var target=get_targeted_monster();
 	if(!target)
 	{
-		target=get_nearest_monster({min_xp:100,max_att:120});
+		target=get_nearest_monster({min_xp:100,max_att:120}); //change min_xp to a higher number to target bosses instead
 		if(target) change_target(target);
 		else
 		{
